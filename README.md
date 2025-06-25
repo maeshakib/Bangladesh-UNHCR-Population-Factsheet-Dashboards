@@ -8,9 +8,9 @@ This repository, Bangladesh-UNHCR-Population-Factsheet-Dashboards, showcases a c
 
 The repository includes dashboards, factsheets, and maps derived from the following publicly available UNHCR documents:
 
-- ** Joint Government of Bangladesh - UNHCR Population Dashboard (May 2025)** : A comprehensive overview of population statistics across refugee camps.
-- ** SPN Breakdown for Bhasan Char (May 2025)** : Detailed demographic breakdown for the Bhasan Char refugee population.
-- ** Population Factsheet - Block Level (May 2025)** : Granular population data at the block level for refugee camps.
+- **Joint Government of Bangladesh - UNHCR Population Dashboard (May 2025)** : A comprehensive overview of population statistics across refugee camps.
+- **SPN Breakdown for Bhasan Char (May 2025)** : Detailed demographic breakdown for the Bhasan Char refugee population.
+- **Population Factsheet - Block Level (May 2025)** : Granular population data at the block level for refugee camps.
 
 
 
@@ -21,6 +21,6 @@ These visualizations provide insights into population size, demographic composit
 #### Tools Used
 
 The dashboards and visualizations were created using the following tools:
-- Power BI Report Builder: For designing structured and paginated reports with precise layouts.
-- Power BI: For creating interactive dashboards with dynamic filtering and data exploration capabilities.
-- ArcGIS: For developing geospatial maps to visualize population distribution and camp layouts.
+- **Power BI Report Builder**: For designing structured and paginated reports with precise layouts.
+- **Power BI**: For creating interactive dashboards with dynamic filtering and data exploration capabilities.
+- **ArcGIS Desktop/Pro**: For developing geospatial maps to visualize population distribution and camp layouts.
