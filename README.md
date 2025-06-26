@@ -1,6 +1,6 @@
-# Bangladesh-UNHCR-Population-Factsheet-Dashboards-
+# Bangladesh-UNHCR-Population-Factsheet-Dashboards
 
-This repository, Bangladesh-UNHCR-Population-Factsheet-Dashboards, showcases a collection of data visualizations and dashboards created to present key population statistics and demographic insights for the Joint Government of Bangladesh and UNHCR initiatives as of May 2025. The project focuses on providing clear, actionable, and visually engaging representations of population data for refugee camps, specifically in Cox’s Bazar and Bhasan Char, to support humanitarian efforts and decision-making.
+As an Information Management (IM) professional, I support the monthly preparation of the **Bangladesh-UNHCR-Population-Factsheet-Dashboards** – a crucial set of 8 public operational documents, totaling 12 pages, uploaded monthly to the UNHCR [Operational Data Portal](https://data.unhcr.org/en/documents/) under 'Dashboards & Factsheets.' Through this work, I have gained extensive experience in data visualization and dashboard creation. These products effectively present key population statistics and demographic insights for the Joint Government of Bangladesh and UNHCR initiatives. Highly utilized by all UN, INGO, and NGO operations, these dashboards are instrumental in humanitarian efforts and decision-making, providing vital representations of refugee population data specifically for camps in Cox's Bazar and Bhasan Char.
 
 #### Contents
 
