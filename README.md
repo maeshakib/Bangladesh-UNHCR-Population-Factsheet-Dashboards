@@ -8,6 +8,8 @@ The repository includes dashboards, factsheets, and maps derived from the follow
 
  
 - **UNHCR Population Dashboard as of April 2025:**[Link](https://data.unhcr.org/en/documents/details/116246)
+--this is one page dashboard, where total refugee populations of Bangladesh, with significant timeline of influx shown, SPN wise male/femel breakdown, Age-Gender breakdown, Family size of total population breakdown, which also includes camp wise population and few important data points like % Women and children, % Persons with specific needs 
+
 - **Population breakdown as of April 2025:**[Link](https://data.unhcr.org/en/documents/details/116247)
 - **UNHCR Population Factsheet - Block Level as of April 2025:** [Link](https://data.unhcr.org/en/documents/details/116249) 
 - **UNHCR Population map as of April 2025:**[Link](https://data.unhcr.org/en/documents/details/116248)
@@ -22,7 +24,8 @@ These visualizations provide insights into population size, demographic composit
 
 #### Tools Used
 
-The dashboards and visualizations were created using the following tools:
+Considering conveniency, efficiency to prepare all these dashboards and visualizations we utitiles following tools:
+- **Excel**: For designing Population Dashboard with precise layouts.
 - **Power BI Report Builder**: For designing structured and paginated reports with precise layouts.
 - **Power BI**: For creating interactive dashboards with dynamic filtering and data exploration capabilities.
 - **ArcGIS Desktop/Pro**: For developing geospatial maps to visualize population distribution and camp layouts.
