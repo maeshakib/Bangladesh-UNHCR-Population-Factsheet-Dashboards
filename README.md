@@ -16,6 +16,10 @@ The repository includes dashboards, factsheets, and maps derived from the follow
 <br>
 <img align="left" alt="age-gender cox | Power BI builder" width="500px" src="https://github.com/maeshakib/z_resources/blob/1a050ea194754a68b0276e0e776228095535bcf2/age-gender%20breakdown.png" /> <br>
 <br>
+<img align="left" alt="age-gender cox | Power BI builder" width="500px" src="https://github.com/maeshakib/z_resources/blob/988289042d696334b973f2c3223606bf2db4b0db/SPN%20breakdown%20cox.png" /> <br>
+<br>
+
+
 - **UNHCR Population Factsheet - Block Level as of April 2025:** [Link](https://data.unhcr.org/en/documents/details/116249) 
 - **UNHCR Population map as of April 2025:**[Link](https://data.unhcr.org/en/documents/details/116248)
 
