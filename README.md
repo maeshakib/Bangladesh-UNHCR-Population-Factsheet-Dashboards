@@ -5,16 +5,19 @@
 #### Contents
 
 The repository includes dashboards, factsheets, and maps derived from the following publicly available UNHCR documents:
-
- 
 - **UNHCR Population Dashboard as of April 2025:**[Link](https://data.unhcr.org/en/documents/details/116246)
-> This is one page dashboard, where total refugee populations of Bangladesh, with significant timeline of influx shown, SPN wise male/femel breakdown, Age-Gender breakdown, Family size of total population breakdown, which also includes camp wise population and few important data points like % Women and children, % Persons with specific needs 
-<div style="margin-bottom: 20px;">
-<img align="left" alt="age-gender cox | Power BI builder" width="1000px" src="https://github.com/maeshakib/z_resources/blob/eeb6c4199e068c8498583730009821de21ed4788/Population%20Dashboard%20Cox%20Full.png" />
-</div>
 
-<div style="margin-bottom: 200px;">
-</div>
+<table>
+  <tr>
+    <td>
+     <img align="left" alt="age-gender cox | Power BI builder" width="500px" src="https://github.com/maeshakib/z_resources/blob/eeb6c4199e068c8498583730009821de21ed4788/Population%20Dashboard%20Cox%20Full.png" />
+    </td>
+    <td>
+      <p> This is one page dashboard, where total refugee populations of Bangladesh, with significant timeline of influx shown, SPN wise male/femel breakdown, Age-Gender breakdown, Family size of total population breakdown, which also includes camp wise population and few important data points like % Women and children, % Persons with specific needs </p>
+    </td>
+  </tr>
+</table>
+
 - **Population breakdown as of April 2025:**[Link](https://data.unhcr.org/en/documents/details/116247)
 > This is one page report that shows age-gender camp wise breakdown refugee populations of Bangladesh
 > , where total refugee populations of Bangladesh, with significant timeline of influx shown, SPN wise male/femel breakdown, Age-Gender breakdown, Family size of total population breakdown, which also includes camp wise population and few important data points like % Women and children, % Persons with specific needs
