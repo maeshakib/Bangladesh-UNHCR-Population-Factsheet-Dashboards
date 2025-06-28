@@ -8,8 +8,8 @@ The repository includes dashboards, factsheets, and maps derived from the follow
 - **UNHCR Population Dashboard as of April 2025:**[Link](https://data.unhcr.org/en/documents/details/116246)
 
 <table>
-  <tr>
-    <td>
+<tr style="vertical-align: top; min-height: 400px;">
+  <td>
      <img align="left" alt="age-gender cox | Power BI builder" width="500px" src="https://github.com/maeshakib/z_resources/blob/eeb6c4199e068c8498583730009821de21ed4788/Population%20Dashboard%20Cox%20Full.png" />
     </td>
     <td>
