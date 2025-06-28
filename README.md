@@ -11,8 +11,7 @@ The repository includes dashboards, factsheets, and maps derived from the follow
     <td>
       <img src="https://raw.githubusercontent.com/maeshakib/z_resources/eeb6c4199e068c8498583730009821de21ed4788/Population%20Dashboard%20Cox%20Full.png" alt="UNHCR Population Dashboard"  />
     </td>
-    <td>
-       
+    <td>       
       <p>This is a one-page dashboard, where total refugee populations of Bangladesh, with significant timeline of influx shown, SPN wise male/female breakdown, Age-Gender breakdown, Family size of total population breakdown, which also includes camp wise population and few important data points like % Women and children, % Persons with specific needs.</p>
     </td>
   </tr>
@@ -25,8 +24,7 @@ The repository includes dashboards, factsheets, and maps derived from the follow
     <td>
       <img src="https://github.com/maeshakib/z_resources/blob/1a050ea194754a68b0276e0e776228095535bcf2/age-gender%20breakdown.png" alt="Population breakdown as of April 2025"  />
     </td>
-    <td>
-      
+    <td>      
       <p>This is one page report that shows age-gender camp wise breakdown refugee populations of Bangladesh
 where total refugee populations of Bangladesh, with significant timeline of influx shown, SPN wise male/femel breakdown, Age-Gender breakdown, Family size of total population breakdown, which also includes camp wise population and few important data points like % Women and children, % Persons with specific needs</p>
     </td>
