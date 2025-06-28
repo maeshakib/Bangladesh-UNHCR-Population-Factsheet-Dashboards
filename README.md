@@ -35,7 +35,19 @@ where total refugee populations of Bangladesh, with significant timeline of infl
 </table>
 <br>
 
-
+- **SPN breakdown By Camp as of April 2025:**[Link](https://data.unhcr.org/en/documents/details/116247)
+<table style="border-spacing: 20px;">
+  <tr style="vertical-align: top; min-height: 600px;">
+    <td>
+      <img src="https://github.com/maeshakib/z_resources/raw/988289042d696334b973f2c3223606bf2db4b0db/SPN%20breakdown%20cox.png" alt="SPN breakdown as of April 2025"  />
+    </td>
+    <td>
+      <p> **UNHCR Population Dashboard as of April 2025** : [link](https://data.unhcr.org/en/documents/details/116247)   </p>
+      <p>This is report that shows age-gender breakdown of refugee populations with Specific Need (SPN). Statistics on the SPN population are crucial in the refugee context to identify vulnerable groups, such as unaccompanied minors or disabled individuals, ensuring targeted humanitarian aid and resource allocation. In the protection context, these statistics guide tailored interventions to address specific risks, enhancing safety and rights for at-risk Rohingya refugees</p>
+    </td>
+  </tr>
+</table>
+<br>
  
 
 
@@ -45,9 +57,9 @@ where total refugee populations of Bangladesh, with significant timeline of infl
 - **UNHCR Population Dashboard Bhasan Char as of April 2025:** [Link](https://data.unhcr.org/en/documents/details/116250)
 - **UNHCR Population Dashboard Bhasan Char as of April 2025**:[Link](https://data.unhcr.org/en/documents/details/116250)
 - **Age Gender breakdown Bhasan Char as of April 2025:** [Link](https://data.unhcr.org/en/documents/details/116251)
-- **SPN breakdown Bhasan Char as of April 2025:** [Link](https://data.unhcr.org/en/documents/details/116252) 
+
  <br>
-<img align="left" alt="age-gender cox | Power BI builder" width="500px" src="https://github.com/maeshakib/z_resources/blob/988289042d696334b973f2c3223606bf2db4b0db/SPN%20breakdown%20cox.png" /> <br>
+<img align="left" alt="age-gender cox | Power BI builder" width="500px" src="" /> <br>
 <br>
 
 These visualizations provide insights into population size, demographic composition, and geographic distribution, aiding stakeholders in planning and resource allocation.
