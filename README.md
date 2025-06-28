@@ -5,8 +5,7 @@
 #### Contents
 
 The repository includes dashboards, factsheets, and maps derived from the following publicly available UNHCR documents:
-- **UNHCR Population Dashboard as of April 2025:** <a href="https://data.unhcr.org/en/documents/details/116247">Link</a>
-
+- **UNHCR Population Dashboard as of April 2025:** https://data.unhcr.org/en/documents/details/116247
 <table style="border-spacing: 20px;">
   <tr style="vertical-align: top; min-height: 600px;">
     <td>
@@ -20,14 +19,14 @@ The repository includes dashboards, factsheets, and maps derived from the follow
 </table>
 <br>
 
-- **Population breakdown as of April 2025:** [Link](https://data.unhcr.org/en/documents/details/116247)
+- **Population breakdown as of April 2025:** https://data.unhcr.org/en/documents/details/116247
 <table style="border-spacing: 20px;">
   <tr style="vertical-align: top; min-height: 600px;">
     <td>
       <img src="https://github.com/maeshakib/z_resources/blob/1a050ea194754a68b0276e0e776228095535bcf2/age-gender%20breakdown.png" alt="Population breakdown as of April 2025"  />
     </td>
     <td>
-      <p> **UNHCR Population Dashboard as of April 2025** : [link](https://data.unhcr.org/en/documents/details/116247)   </p>
+      <p> **UNHCR Population Dashboard as of April 2025** : https://data.unhcr.org/en/documents/details/116247   </p>
       <p>This is one page report that shows age-gender camp wise breakdown refugee populations of Bangladesh
 where total refugee populations of Bangladesh, with significant timeline of influx shown, SPN wise male/femel breakdown, Age-Gender breakdown, Family size of total population breakdown, which also includes camp wise population and few important data points like % Women and children, % Persons with specific needs</p>
     </td>
@@ -35,7 +34,7 @@ where total refugee populations of Bangladesh, with significant timeline of infl
 </table>
 <br>
 
-- **SPN breakdown By Camp as of April 2025:**[Link](https://data.unhcr.org/en/documents/details/116247)
+- **SPN breakdown By Camp as of April 2025:**https://data.unhcr.org/en/documents/details/116247
 <table style="border-spacing: 20px;">
   <tr style="vertical-align: top; min-height: 600px;">
     <td>
