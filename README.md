@@ -55,11 +55,8 @@ where total refugee populations of Bangladesh, with significant timeline of infl
 - **UNHCR Population Dashboard Bhasan Char as of April 2025**:[Link](https://data.unhcr.org/en/documents/details/116250)
 - **Age Gender breakdown Bhasan Char as of April 2025:** [Link](https://data.unhcr.org/en/documents/details/116251)
 
- <br>
-<img align="left" alt="age-gender cox | Power BI builder" width="500px" src="" /> <br>
-<br>
 
-These visualizations provide insights into population size, demographic composition, and geographic distribution, aiding stakeholders in planning and resource allocation.
+<br>
 
 #### Tools Used
 
