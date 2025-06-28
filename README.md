@@ -1,7 +1,9 @@
 # Bangladesh-UNHCR-Population-Factsheet-Dashboards
 
-**Bangladesh-UNHCR-Population-Factsheet-Dashboards** – a crucial set of 8 public operational documents, totaling 12 pages, uploaded monthly to the UNHCR [Operational Data Portal](https://data.unhcr.org/en/documents/) under 'Dashboards & Factsheets, as an Information Management (IM) professional, I support the monthly preparation of the products.' Through this work, I have gained extensive experience in data visualization and dashboard creation. These products effectively present key population statistics and demographic insights for the Joint Government of Bangladesh and UNHCR initiatives. Highly utilized by all UN, INGO, and NGO operations, these dashboards are instrumental in humanitarian efforts and decision-making, providing vital representations of refugee population data specifically for camps in Cox's Bazar and Bhasan Char.
-
+**Bangladesh-UNHCR-Population-Factsheet-Dashboards** – a crucial set of 8 public operational documents, totaling 12 pages, is vital for tracking demographic trends, enabling effective planning and resource allocation to meet evolving needs. It supports timely decision-making by providing clear, updated insights into population dynamics, ensuring efficient humanitarian response and protection.
+As an Information Management (IM) professional, I am supporting Bangladesh Operation with preparing 'Dashboards & Factsheets and uploaded monthly to the UNHCR [Operational Data Portal](https://data.unhcr.org/en/documents/) under 'Dashboards & Factsheets,  
+Through this work, I have gained extensive experience in data visualization and dashboard creation. These products effectively present key population statistics and demographic insights for the Joint Government of Bangladesh and UNHCR initiatives. Highly utilized by all UN, INGO, and NGO operations, these dashboards are instrumental in humanitarian efforts and decision-making, providing vital representations of refugee population data specifically for camps in Cox's Bazar and Bhasan Char.
+ 
 #### Contents
 
 The repository includes dashboards, factsheets, and maps derived from the following publicly available UNHCR documents:
