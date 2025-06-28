@@ -7,15 +7,17 @@
 The repository includes dashboards, factsheets, and maps derived from the following publicly available UNHCR documents:
 - **UNHCR Population Dashboard as of April 2025:**[Link](https://data.unhcr.org/en/documents/details/116246)
 
-<div style="display: flex; gap: 20px; align-items: flex-start;">
-  <div>
-    <img src="https://raw.githubusercontent.com/maeshakib/z_resources/eeb6c4199e068c8498583730009821de21ed4788/Population%20Dashboard%20Cox%20Full.png" alt="UNHCR Population Dashboard" width="500px"  />
-  </div>
-  <div>
-    <p><strong>UNHCR Population Dashboard as of April 2025:</strong> [Link](https://data.unhcr.org/en/documents/details/116247)</p>
-    <p>This is a one-page dashboard, where total refugee populations of Bangladesh, with significant timeline of influx shown, SPN wise male/female breakdown, Age-Gender breakdown, Family size of total population breakdown, which also includes camp wise population and few important data points like % Women and children, % Persons with specific needs.</p>
-  </div>
-</div>
+<table style="border-spacing: 20px;">
+  <tr style="vertical-align: top; min-height: 600px;">
+    <td>
+      <img src="https://raw.githubusercontent.com/maeshakib/z_resources/eeb6c4199e068c8498583730009821de21ed4788/Population%20Dashboard%20Cox%20Full.png" alt="UNHCR Population Dashboard" width="500px" height="400px" />
+    </td>
+    <td>
+      <p><strong>UNHCR Population Dashboard as of April 2025:</strong> [Link](https://data.unhcr.org/en/documents/details/116247)</p>
+      <p>This is a one-page dashboard, where total refugee populations of Bangladesh, with significant timeline of influx shown, SPN wise male/female breakdown, Age-Gender breakdown, Family size of total population breakdown, which also includes camp wise population and few important data points like % Women and children, % Persons with specific needs.</p>
+    </td>
+  </tr>
+</table>
 <br>
 
 - **Population breakdown as of April 2025:**[Link](https://data.unhcr.org/en/documents/details/116247)
