@@ -5,7 +5,7 @@
 #### Contents
 
 The repository includes dashboards, factsheets, and maps derived from the following publicly available UNHCR documents:
-- **UNHCR Population Dashboard as of April 2025:** https://data.unhcr.org/en/documents/details/116247
+- **[UNHCR Population Dashboard as of April 2025](https://data.unhcr.org/en/documents/details/116247)**
 <table style="border-spacing: 20px;">
   <tr style="vertical-align: top; min-height: 600px;">
     <td>
