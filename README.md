@@ -10,7 +10,7 @@ The repository includes dashboards, factsheets, and maps derived from the follow
 <table style="border-spacing: 20px;">
   <tr style="vertical-align: top; min-height: 600px;">
     <td>
-      <img src="https://raw.githubusercontent.com/maeshakib/z_resources/eeb6c4199e068c8498583730009821de21ed4788/Population%20Dashboard%20Cox%20Full.png" alt="UNHCR Population Dashboard" width="500px" height="600px" />
+      <img src="https://raw.githubusercontent.com/maeshakib/z_resources/eeb6c4199e068c8498583730009821de21ed4788/Population%20Dashboard%20Cox%20Full.png" alt="UNHCR Population Dashboard"  />
     </td>
     <td>
       <p><strong>UNHCR Population Dashboard as of April 2025:</strong> [Link](https://data.unhcr.org/en/documents/details/116247)</p>
